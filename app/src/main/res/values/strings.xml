@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Livia Carvalho</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hey!
+        \n\nI am Livia Carvalho, a proud Mechanical Engineering graduate from UFAM (Federal University of Amazonas).
+        \n\nCurrently,  I am in the midst of an exciting transition, immersing myself in a technology-centric program specializing in Analysis and Development of Systems, with a specific goal in mind – becoming a skilled Android developer.
+        \n\nPresently, I am contributing to the tech world as an intern at Sidia.
+        \n\nMy ultimate aspiration is to secure a position as a Junior Android Developer, leveraging the knowledge and experience gained during my academic journey and internship.
+        \n\nBeyond the world of academia and technology, I find joy in the simplicity of life.
+        \n\nI unwind by indulging in comedy movies, cherishing moments with friends, reading and expressing myself through singing and dancing. </string>
+</resources>
