@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
             edtxtNickname.visibility = View.GONE
             txtGreetings.visibility = View.VISIBLE
             btnDone.visibility = View.GONE
+            txtBio.visibility = View.VISIBLE
         }
     }
 }
